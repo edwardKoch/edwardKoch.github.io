@@ -415,13 +415,13 @@ p.phone span.fa {
     -ms-transition: 0.5s all;
 }
 .agileinfo-social-grids ul li a span.fa.fa-facebook:hover {
-    color: #3b5998;
+    color: #3B5998;
 }
 .agileinfo-social-grids ul li a span.fa.fa-linkedin-square{
 	margin:0 1em;
 }
 .agileinfo-social-grids ul li a span.fa.fa-linkedin-square:hover{
-	color: #3b5998;
+	color: #0077b5;
 }
 .agileinfo-social-grids ul li a span.fa.fa-flickr{
 	margin:0 1em 0 0;
